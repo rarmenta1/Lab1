@@ -1,2 +1,2 @@
-# Lab_1
-Lab 1
+# Lab1
+ITMD 361 - Rafael Armenta
